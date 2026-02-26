@@ -53,7 +53,6 @@ Here’s how to run the program or scripts in this repo:
 - Follow the steps listed in the script or notes  
 - Run the program through your preferred environment  
 
-Example folder layout:
 
 
 ---
